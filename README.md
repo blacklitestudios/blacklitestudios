@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on CelPython;
-- 🌱 I’m currently learning C++ or Godoy;
+- 🌱 I’m currently learning C++ or Godot;
 - 👯 I’m looking to collaborate on idk;
 - 🤔 I’m looking for help with TYPE HINTS WHY;
 - 💬 Ask me about idk;
